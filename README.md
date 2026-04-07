@@ -1,10 +1,13 @@
 <h1 align="center">Hoang Anh</h1>
-<p align="center">
+<!-- <p align="center">
   |  |
-</p>
+</p> -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=180&section=header&text=Hoang%20Anh&fontSize=40&fontColor=ffffff"/>
 </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;LLM+Research;Computer+Vision&center=true&size=25&color=36BCF7"/>
+</p>
 
 ## About Me
 
