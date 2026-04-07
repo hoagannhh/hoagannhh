@@ -3,7 +3,7 @@
   |  |
 </p>
 <div align="center">
-  <img src="[image.png](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome&fontSize=40&fontColor=ffffff)" alt="profile banner" width ="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome&fontSize=40&fontColor=ffffff"/>
 </div>
 
 ## About Me
