@@ -1,5 +1,9 @@
+<h1 align="center">Hoang Anh</h1>
+<p align="center">
+  |  |
+</p>
 <div align="center">
-  <img src="image.png" alt="profile banner" />
+  <img src="image.png" alt="profile banner" width ="200"/>
 </div>
 
 ## About Me
