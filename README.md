@@ -1,20 +1,21 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="image.png"/>
+  <img src="image.png" alt="profile banner" />
 </div>
 
-<!--
-**hoagannhh/hoagannhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Computer Science student with a strong interest in AI research
+- Focused on building practical AI systems and learning how they work in depth
+- Interested in multimodal understanding and real-world deployment
+- Have some experience with backend and frontend development
+- Care about research quality, engineering rigor, and clean implementation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Python, PyTorch, Transformers, FastAPI, Docker, Backend, Frontend
+
+## Featured Projects
+
+<!-- - Project 1: -->
+
+- More projects coming soon
