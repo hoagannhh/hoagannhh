@@ -72,5 +72,5 @@
 </div>
 
 ### 📫 Let's Connect!
-- **Email:** [hoangang02062005@gmail.com](mailto:hoangang02062005@gmail.com)
+- **Email:** [hoanganh02062005@gmail.com](mailto:hoanganh02062005@gmail.com)
 <!--- **Portfolio:** [hoagannhh.github.io](https://github.com/hoagannhh)-->
