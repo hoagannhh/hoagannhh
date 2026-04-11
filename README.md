@@ -17,6 +17,8 @@
 - Have some experience with backend and frontend development
 - Care about research quality, engineering rigor, and clean implementation
 
+[📁 Click here to view and download my Resume](./RESUME.pdf)
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**
