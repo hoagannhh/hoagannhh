@@ -47,6 +47,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
+---
 
 ---
 
@@ -55,3 +56,23 @@
 <!-- - Project 1: -->
 
 - More projects coming soon
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Auresol69&show_icons=true&theme=radical&rank_icon=github" alt="Auresol69's GitHub Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Auresol69&layout=compact&theme=radical" alt="Auresol69's Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Auresol69&theme=radical" alt="Auresol69's GitHub Streak" />
+</div>
+
+### 📫 Let's Connect!
+- **Email:** [hoanganh02062005@gmail.com](mailto:hoanganh02062005@gmail.com)
+<!--- **Portfolio:** [hoagannhh.github.io](https://github.com/hoagannhh)-->
